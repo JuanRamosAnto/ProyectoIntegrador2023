@@ -4,8 +4,6 @@ import java.sql.Date;
 
 public class Usuarios {
 	
-
-	
 	private int IdUsuario;
 	private String nombre, contraseña;
 	private String apellido,email,telefono; 
